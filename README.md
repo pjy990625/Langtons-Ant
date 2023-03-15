@@ -10,6 +10,7 @@ templates and usages of `wasm-pack`.
 
 [tutorials]: https://rustwasm.github.io/docs/wasm-pack/tutorials/index.html
 [template-docs]: https://rustwasm.github.io/docs/wasm-pack/tutorials/npm-browser-packages/index.html
+[Langton's Ant]: https://en.wikipedia.org/wiki/Langton%27s_ant
 
 ## 🚴 Usage
 
